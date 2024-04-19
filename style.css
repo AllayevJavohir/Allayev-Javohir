@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(7, 6, 6);
+}
+.card{
+    width: 700px;
+    border: 2px;
+    margin: 0 auto;
+    background-color: rgb(33, 32, 32);
+    padding: 30px;
+    border-radius: 30px;
+
+}
+.card-img img {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #fefefe;
+    border-radius: 50%;
+    background-image: url(c);
+    background-size: cover;
+    background-position: center top;
+
+
+}
+.card-info span{
+    display: block;
+    font-size: 16px;
+    color: #fff;
+    font-weight: 200;
+
+
+}
+.card-info a {
+    font-size: 32px;
+    color: aliceblue;
+}
+a{
+    background-color: rgb(215, 215, 215); 
+    
+    
+}
